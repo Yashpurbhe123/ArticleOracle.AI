@@ -1,0 +1,12 @@
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-groq==0.1.9
+sentence-transformers==3.0.1
+faiss-cpu==1.8.0
+streamlit==1.37.1
+python-dotenv==1.0.1
+requests==2.32.3
+beautifulsoup4==4.12.3
+newspaper3k==0.2.8
+lxml_html_clean==0.3.1
+tf-keras
