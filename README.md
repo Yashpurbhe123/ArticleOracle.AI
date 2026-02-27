@@ -46,6 +46,7 @@
 </table>
 
 </div>
+
 ---
 
 ## ✨ Features at a Glance
